@@ -5,5 +5,8 @@ public class Test {
         //Bahruz
 
     }
+    public void anyMethod(){
+
+    }
 
 }
